@@ -1,5 +1,6 @@
 **/.target/
 **/target/
+*.zip
 !**/src/main/**/target/
 !**/src/test/**/target/
 
